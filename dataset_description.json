@@ -1,0 +1,17 @@
+{
+    "Name": "RID",
+    "BIDSVersion": "1.0.0rc1",
+    "License": "RID",
+    "Authors": [
+	"Corey Fernandez",
+        "Jiefeng Jiang",
+        "Shao-Fang Wang",
+        "Hannah L. Choi",
+        "Anthony D. Wagner"
+    ],
+    "Funding": ["test"],
+    "ReferencesAndLinks": [
+        "Preprint available at: https://doi.org/10.1101/2022.04.12.488078"
+    ],
+    "DatasetDOI": "tbd"
+}
